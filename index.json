@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "iterable-go",
+  "versions": [
+    {
+      "commit": "3eaea8f782a115f7271f6b50adc98df89c973419",
+      "tag": "main",
+      "parsed_at": "2026-10-02T10:46:36.239309+00:00"
+    }
+  ]
+}
