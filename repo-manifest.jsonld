@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/block/iterable-go/commit/3eaea8f782a115f7271f6b50adc98df89c973419",
       "git:hexsha": "3eaea8f782a115f7271f6b50adc98df89c973419",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "v0.4.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.4.0",
+      "repolex:parsedAt": "2026-10-02T10:46:36.238801+00:00"
     },
     {
       "@id": "https://repolex.ai/r/block/iterable-go/commit/eebf85993e66bccb3d91809f01acee1664a6580e",
